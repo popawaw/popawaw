@@ -21,10 +21,6 @@
 
 [종윤 하](https://popawaw.tistory.com/)
 
-- Blog2 |
-
-[popawaw (terminal lover) - velog](https://velog.io/@popawaw)
-
 - Github |
 
 [popawaw - Overview](https://github.com/popawaw)
