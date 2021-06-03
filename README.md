@@ -3,5 +3,5 @@
 ## Contact & Channel
 
 - Email | popawa@naver.com
-- Blog | [종윤 하](https://popawaw.tistory.com/)
-- Notion | https://www.notion.so/4675c7f6170f41349656a62ba4a38227
+- Blog | [Tistory](https://popawaw.tistory.com/)
+- Notion | [이력서](https://www.notion.so/4675c7f6170f41349656a62ba4a38227)
