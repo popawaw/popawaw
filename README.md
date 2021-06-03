@@ -3,10 +3,4 @@
 ## Contact & Channel
 
 - Email | popawa@naver.com
-- Blog |
-
-[종윤 하](https://popawaw.tistory.com/)
-
-- Github |
-
-[popawaw - Overview](https://github.com/popawaw)
+- Blog | [종윤 하](https://popawaw.tistory.com/)
