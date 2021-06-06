@@ -2,6 +2,6 @@
 
 ## Contact & Channel
 
-- Email | popawa@naver.com
+- Email | popawaw@naver.com
 - Blog | [Tistory](https://popawaw.tistory.com/)
 - Notion | [이력서](https://www.notion.so/4675c7f6170f41349656a62ba4a38227)
