@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongyunha)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JongyunHa)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ## Contact & Channel
