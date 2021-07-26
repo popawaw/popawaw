@@ -3,4 +3,4 @@
 ## Contact & Channel
 
 - Email | contact@jongyun.org
-- Blog | (blog.jongyun.org)
+- Blog | http://blog.jongyun.org
