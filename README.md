@@ -2,4 +2,4 @@
 
 ## Contact
 
-- Email | contact@jongyun.org
+- Email | dev@jongyun.com
