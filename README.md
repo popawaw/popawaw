@@ -1,3 +1,6 @@
+<h2> 🧑🏻‍🔧Hello! This is Jongyun Ha. </h2>
+<span> 💌 dev@jongyun.com </span>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongyunHa&show_icons=true)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongyunHa&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
