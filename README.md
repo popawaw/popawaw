@@ -1,5 +1,4 @@
 <h2> 🧑🏻‍🔧Hello! This is Jongyun Ha. </h2>
-<span> 💌 dev@jongyun.com </span>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongyunHa&show_icons=true)
 <br />
