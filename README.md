@@ -1,8 +1,7 @@
 <h2> 🧑🏻‍🔧Hello! This is Jongyun Ha. </h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nothingprogram&show_icons=true&theme=dark&align=center)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothingprogram&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongyun_ha)](https://solved.ac/jongyun_ha)
- -->
+<p align="center">
+  <a href="https://github.com/nothingprogram/nothingprogram"><img src="https://github-readme-stats.vercel.app/api?username=nothingprogram&show_icons=true&theme=dark"></img></a>
+</p>   
 <p align="center">🇰🇷</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
