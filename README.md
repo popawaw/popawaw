@@ -1,6 +1,6 @@
 <h2> 🧑🏻‍🔧Hello! This is Jongyun Ha. </h2>
-![trophy](https://github-profile-trophy.vercel.app/?username=nothingprogram)
 <p align="center">🇰🇷</p>
+<p>![trophy](https://github-profile-trophy.vercel.app/?username=nothingprogram)</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
