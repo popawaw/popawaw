@@ -1,5 +1,5 @@
 <h2> 🧑🏻‍🔧Hello! This is Jongyun Ha. </h2>
-[trophy](https://github-profile-trophy.vercel.app/?username=nothingprogram&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?username=nothingprogram&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">🇰🇷</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
